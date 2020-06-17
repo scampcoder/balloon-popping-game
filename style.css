@@ -22,3 +22,18 @@ h1 {
   font-size: 30px;
   color: #000380;
 }
+
+#balloon-gallery div {
+  background-color: #ff3300;
+  height: 121px;
+  width: 119px;
+  text-align: center;
+  color: #ff3300;
+  font-size: 40px;
+  font-family: sans-serif;
+  border-radius: 100%;
+  margin-top: 20px;
+  display: inline-block;
+  float: left;
+  margin: 2.5px 5px 2.5px 0px;
+}
