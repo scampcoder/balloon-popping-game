@@ -47,3 +47,22 @@ const balloon0 = document.getElementById('balloon22');
 const balloon0 = document.getElementById('balloon23');
 
 const yay = document.getElementById('yay-no-balloons');
+
+function balloonPopper(balloonVariable) {
+  balloonVariable.addEventListener('mouseover', popballoon);
+
+  function popballoon() {
+    if(balloonVariable.style.background === 'none') {
+      balloonVariable.innerText = "";
+    }
+    else {
+      balloonVariable.innerText = "POP!";
+      balloonVariable.style.background = "none";
+    }
+  }
+  balloonVariable.addEventListener('mouseout', popIsOver, false);
+
+  function popIsOver() {
+    balloonVariable.innerText = "";
+  }
+}
