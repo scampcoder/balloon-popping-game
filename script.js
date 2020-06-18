@@ -1,52 +1,52 @@
 const balloon0 = document.getElementById('balloon0');
 
-const balloon0 = document.getElementById('balloon1');
+const balloon1 = document.getElementById('balloon1');
 
-const balloon0 = document.getElementById('balloon2');
+const balloon2 = document.getElementById('balloon2');
 
-const balloon0 = document.getElementById('balloon3');
+const balloon3 = document.getElementById('balloon3');
 
-const balloon0 = document.getElementById('balloon4');
+const balloon4 = document.getElementById('balloon4');
 
-const balloon0 = document.getElementById('balloon5');
+const balloon5 = document.getElementById('balloon5');
 
-const balloon0 = document.getElementById('balloon6');
+const balloon6 = document.getElementById('balloon6');
 
-const balloon0 = document.getElementById('balloon7');
+const balloon7 = document.getElementById('balloon7');
 
-const balloon0 = document.getElementById('balloon8');
+const balloon8 = document.getElementById('balloon8');
 
-const balloon0 = document.getElementById('balloon9');
+const balloon9 = document.getElementById('balloon9');
 
-const balloon0 = document.getElementById('balloon10');
+const balloon10 = document.getElementById('balloon10');
 
-const balloon0 = document.getElementById('balloon11');
+const balloon11 = document.getElementById('balloon11');
 
-const balloon0 = document.getElementById('balloon12');
+const balloon12 = document.getElementById('balloon12');
 
-const balloon0 = document.getElementById('balloon13');
+const balloon13 = document.getElementById('balloon13');
 
-const balloon0 = document.getElementById('balloon14');
+const balloon14 = document.getElementById('balloon14');
 
-const balloon0 = document.getElementById('balloon15');
+const balloon15 = document.getElementById('balloon15');
 
-const balloon0 = document.getElementById('balloon16');
+const balloon16 = document.getElementById('balloon16');
 
-const balloon0 = document.getElementById('balloon17');
+const balloon17 = document.getElementById('balloon17');
 
-const balloon0 = document.getElementById('balloon18');
+const balloon18 = document.getElementById('balloon18');
 
-const balloon0 = document.getElementById('balloon19');
+const balloon19 = document.getElementById('balloon19');
 
-const balloon0 = document.getElementById('balloon20');
+const balloon20 = document.getElementById('balloon20');
 
-const balloon0 = document.getElementById('balloon21');
+const balloon21 = document.getElementById('balloon21');
 
-const balloon0 = document.getElementById('balloon22');
+const balloon22 = document.getElementById('balloon22');
 
-const balloon0 = document.getElementById('balloon23');
+const balloon23 = document.getElementById('balloon23');
 
-const balloon0 = document.getElementById('balloon23');
+const balloon24 = document.getElementById('balloon23');
 
 const yay = document.getElementById('yay-no-balloons');
 
