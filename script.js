@@ -46,7 +46,7 @@ const balloon22 = document.getElementById('balloon22');
 
 const balloon23 = document.getElementById('balloon23');
 
-const balloon24 = document.getElementById('balloon23');
+const balloon24 = document.getElementById('balloon24');
 
 const yay = document.getElementById('yay-no-balloons');
 
@@ -94,11 +94,12 @@ balloonPopper(balloon20);
 balloonPopper(balloon21);
 balloonPopper(balloon22);
 balloonPopper(balloon23);
+balloonPopper(balloon24);
 
 document.addEventListener('mouseover', noBalloons, false);
 
 function noBalloons() {
-  if (balloon0.style.background === 'none' && balloon1.style.background === 'none' && balloon2.style.background === 'none' && balloon3.style.background === 'none' && balloon4.style.background === 'none' && balloon5.style.background === 'none' && balloon6.style.background === 'none' && balloon7.style.background === 'none' && balloon8.style.background === 'none' && balloon9.style.background === 'none' && balloon10.style.background === 'none' && balloon11.style.background === 'none' && balloon12.style.background === 'none' && balloon13.style.background === 'none' && balloon14.style.background === 'none' && balloon15.style.background === 'none' && balloon16.style.background === 'none' && balloon17.style.background === 'none' && balloon18.style.background === 'none' && balloon19.style.background === 'none' && balloon20.style.background === 'none' && balloon21.style.background === 'none' && balloon22.style.background === 'none' && balloon23.style.background === 'none') {
+  if (balloon0.style.background === 'none' && balloon1.style.background === 'none' && balloon2.style.background === 'none' && balloon3.style.background === 'none' && balloon4.style.background === 'none' && balloon5.style.background === 'none' && balloon6.style.background === 'none' && balloon7.style.background === 'none' && balloon8.style.background === 'none' && balloon9.style.background === 'none' && balloon10.style.background === 'none' && balloon11.style.background === 'none' && balloon12.style.background === 'none' && balloon13.style.background === 'none' && balloon14.style.background === 'none' && balloon15.style.background === 'none' && balloon16.style.background === 'none' && balloon17.style.background === 'none' && balloon18.style.background === 'none' && balloon19.style.background === 'none' && balloon20.style.background === 'none' && balloon21.style.background === 'none' && balloon22.style.background === 'none' && balloon23.style.background === 'none' && balloon24.style.background === 'none') {
     yay.style.display = 'block';
     window.scrollTo(0, 0);
   }
