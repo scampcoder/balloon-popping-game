@@ -71,3 +71,9 @@ h1 {
 #balloon-gallery div:nth-child(4n) {
   clear: right;
 }
+
+#yay-no-balloons {
+  display: none;
+  color: #ff3300;
+  font-size: 100px;
+}
