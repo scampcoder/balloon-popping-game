@@ -60,9 +60,35 @@ function balloonPopper(balloonVariable) {
       balloonVariable.style.background = "none";
     }
   }
+
   balloonVariable.addEventListener('mouseout', popIsOver, false);
 
   function popIsOver() {
     balloonVariable.innerText = "";
   }
 }
+
+balloonPopper(balloon0);
+balloonPopper(balloon1);
+balloonPopper(balloon2);
+balloonPopper(balloon3);
+balloonPopper(balloon4);
+balloonPopper(balloon5);
+balloonPopper(balloon6);
+balloonPopper(balloon7);
+balloonPopper(balloon8);
+balloonPopper(balloon9);
+balloonPopper(balloon10);
+balloonPopper(balloon11);
+balloonPopper(balloon12);
+balloonPopper(balloon13);
+balloonPopper(balloon14);
+balloonPopper(balloon15);
+balloonPopper(balloon16);
+balloonPopper(balloon17);
+balloonPopper(balloon18);
+balloonPopper(balloon19);
+balloonPopper(balloon20);
+balloonPopper(balloon21);
+balloonPopper(balloon22);
+balloonPopper(balloon23);
