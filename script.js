@@ -45,3 +45,5 @@ const balloon0 = document.getElementById('balloon21');
 const balloon0 = document.getElementById('balloon22');
 
 const balloon0 = document.getElementById('balloon23');
+
+const yay = document.getElementById('yay-no-balloons');
